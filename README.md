@@ -1,10 +1,10 @@
 # vue-blog
 
 ### 介绍
-用云开发的vue搭建的一个文章列表和详情页
+用云开发和 vue 搭建的一个文章列表和详情页，主要功能有文章查询、搜索、分页、列表
 
 ### 技术架构
- [Vue.js](https://cn.vuejs.org/) 和 [云开发CMS](https://console.cloud.tencent.com/tcb/cms)
+ [Vue.js](https://cn.vuejs.org/) 、 [云开发CMS](https://console.cloud.tencent.com/tcb/cms)、 [Element](https://element.eleme.cn/)
 
 ### 效果截图
 #### 列表
