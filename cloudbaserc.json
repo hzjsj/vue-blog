@@ -1,0 +1,5 @@
+{
+  "envId": "svip9",
+  "functionRoot": "./cloudfunctions",
+  "functions": []
+}
